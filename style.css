@@ -1,0 +1,52 @@
+body {font-family: 'Playfair Display', serif;text-align:left; font-size: 20px;}
+
+h4{font-family: 'Playfair Display', serif;
+font-size: 24px;color: white;}
+
+h3{font-family: 'Playfair Display', serif;
+font-size: 24px;}
+
+h1{font-family: 'Old Standard TT', serif;
+font-size: 50px;color: white;}
+
+p{text-align: center;}
+
+table{background-color: green;text-align: center;}
+
+img{border: solid black;}
+
+a{color: red;
+text-decoration: none;}
+
+a:hover{background-color: blue;}
+
+ul{width: 28%;margin: auto;}
+
+div{border-color: red;
+  border-width: 3px;}
+
+  #head{text-align: center;}
+
+  #right{border: solid black;
+  width: 250px;}
+
+.head{text-decoration: underline; color: white;text-align: center;}
+
+.ect{font-style:italic;}
+
+.theu{text-align: center;color: orange;}
+
+.title{background-color: red;font: white}
+
+.bod{border-style: dotted;color: red;}
+
+.center {
+  margin: auto;
+  width: 28%;
+}
+
+.tablecenter {
+  margin: auto;
+  width: 21%;
+}
+#bullet{border:solid black;border-width:thin;width: 150px;height: 100px;}
